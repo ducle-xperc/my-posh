@@ -4,6 +4,18 @@
     {
       "alignment": "left",
       "segments": [
+         {
+          "background": "#546E7A",
+          "foreground": "#26C6DA",
+          "leading_diamond": "\ue0c5",
+          "properties": {
+            "macos": "mac"
+          },
+          "style": "diamond",
+          "template": " {{ if .WSL }}WSL at {{ end }}{{.Icon}} \ue0b1",
+          "trailing_diamond": "\ue0b0",
+          "type": "os"
+        },
         {
           "foreground": "#FFBD00",
           "style": "plain",
