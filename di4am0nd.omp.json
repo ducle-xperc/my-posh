@@ -29,6 +29,7 @@
         {
           "foreground": "#F62F2E",
           "properties": {
+            "branch_icon": "\ue725 ",
             "fetch_status": true
           },
           "style": "plain",
@@ -100,7 +101,7 @@
         {
           "foreground": "#CD4277",
           "style": "plain",
-          "template": "~~#",
+          "template": " ~#",
           "type": "text"
         }
       ],
