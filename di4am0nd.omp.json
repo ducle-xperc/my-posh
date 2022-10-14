@@ -59,7 +59,6 @@
         },
         {
           "foreground": "#ffffff",
-          "leading_diamond": "\u250b",
           "properties": {
             "style": "roundrock",
             "threshold": 0
