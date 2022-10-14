@@ -84,9 +84,9 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#FFBD00",
+          "foreground": "#CD4277",
           "style": "plain",
-          "template": "\u2b9e ",
+          "template": "# ",
           "type": "text"
         }
       ],
