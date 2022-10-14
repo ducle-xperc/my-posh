@@ -46,7 +46,7 @@
         },
         {
           "type": "php",
-          "style": "powerline",
+          "style": "plain",
           "powerline_symbol": "\uE0B0",
           "foreground": "#ffffff",
           "background": "#4063D8",
@@ -54,7 +54,7 @@
         },
         {
           "type": "angular",
-          "style": "powerline",
+          "style": "plain",
           "powerline_symbol": "\uE0B0",
           "foreground": "#000000",
           "background": "#1976d2",
