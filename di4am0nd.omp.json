@@ -51,6 +51,14 @@
           "foreground": "#ffffff",
           "background": "#4063D8",
           "template": " \ue73d {{ .Full }} "
+        },
+        {
+          "type": "angular",
+          "style": "powerline",
+          "powerline_symbol": "\uE0B0",
+          "foreground": "#000000",
+          "background": "#1976d2",
+          "template": " \uE753 {{ .Full }} "
         }
       ],
       "type": "prompt"
