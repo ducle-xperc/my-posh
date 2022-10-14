@@ -7,13 +7,13 @@
          {
           "foreground": "cyan",
           "style": "powerline",
-          "template": "{{ .Icon }}",
+          "template": "{{ .Icon }} \u279c ",
           "type": "os"
         },
         {
           "foreground": "#FFBD00",
           "style": "plain",
-          "template": "@{{ .UserName }} \u279c",
+          "template": "@{{ .UserName }} ",
           "type": "session"
         },
         {
