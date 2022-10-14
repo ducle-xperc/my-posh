@@ -48,16 +48,14 @@
           "type": "php",
           "style": "plain",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#ffffff",
-          "background": "#4063D8",
+          "foreground": "#4063D8",
           "template": " \ue73d {{ .Full }} "
         },
         {
           "type": "angular",
           "style": "plain",
           "powerline_symbol": "\uE0B0",
-          "foreground": "#000000",
-          "background": "#1976d2",
+          "foreground": "#a92534",
           "template": " \uE753 {{ .Full }} "
         }
       ],
