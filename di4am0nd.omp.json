@@ -53,7 +53,7 @@
         {
           "foreground": "#85C980",
           "style": "diamond",
-          "template": "RAM:{{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB ",
+          "template": "RAM:{{ (div ((sub .PhysicalTotalMemory .PhysicalFreeMemory)|float64) 1000000000.0) }}/{{ (div .PhysicalTotalMemory 1000000000.0) }}GB",
           "trailing_diamond": " ",
           "type": "sysinfo"
         },
@@ -64,7 +64,7 @@
             "threshold": 0
           },
           "style": "diamond",
-          "template": "\ufa1e {{ .FormattedMs }} ",
+          "template": "\ufa1e {{ .FormattedMs }}",
           "type": "executiontime"
         },
         {
