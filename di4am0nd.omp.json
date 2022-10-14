@@ -65,13 +65,13 @@
             "threshold": 0
           },
           "style": "diamond",
-          "template": " {{ .FormattedMs }} ",
+          "template": "\ufa1e {{ .FormattedMs }} ",
           "type": "executiontime"
         },
         {
           "foreground": "#00C5C7",
           "properties": {
-            "time_format": "15:04:05"
+            "time_format": "15:04 (Mon)"
           },
           "style": "plain",
           "template": "\uf017 {{ .CurrentDate | date .Format }} ",
